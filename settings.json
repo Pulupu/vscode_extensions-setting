@@ -1,0 +1,31 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "terminal.integrated.fontFamily": "Consolas",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorCustomizations": {
+        "[One Dark Pro]": {
+            "activityBar.background": "#2F333D",
+            "editorWhitespace.foreground": "#666666",
+            "gitDecoration.ignoredResourceForeground": "#888888",
+            "terminal.ansiBrightBlack": "#002b36",
+            "terminal.ansiBrightBlue": "#268bd2",
+            "terminal.ansiBrightCyan": "#2aa198",
+            "terminal.ansiBlue": "#839496",
+            "terminal.ansiCyan": "#93a1a1",
+            "terminal.ansiGreen": "#586e75",
+            "terminal.ansiMagenta": "#6c71c4",
+            "terminal.ansiRed": "#cb4b16",
+            "terminal.ansiYellow": "#657b83",
+            "terminal.ansiBrightGreen": "#859900",
+            "terminal.ansiBrightMagenta": "#d33682",
+            "terminal.ansiBrightRed": "#dc322f",
+            "terminal.ansiBrightWhite": "#fdf6e3",
+            "terminal.ansiBrightYellow": "#b58900",
+        }
+    },
+    "python.pythonPath": "python",
+    "python.terminal.activateEnvironment": false,
+    "sftp.downloadWhenOpenInRemoteExplorer": true,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile"
+}
